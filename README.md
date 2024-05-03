@@ -5,7 +5,7 @@
 
 # Hi,这里是[SmallKunKun](https://kunkun.eu.org/).🤗
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=7957d5&random=false&width=435&lines=Dream+it.+Chase+it.+Dream+it.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=7957d5&random=false&width=435&lines=Dream+it.+Chase+it.+Code+it.)
 
 - Ta是~~二刺螈~~,还是个~~OP~~.🙄
 
