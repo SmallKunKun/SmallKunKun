@@ -2,7 +2,7 @@
   <img src="https://count.getloli.com/get/@SmallKunKun?theme=rule34">
 </p>
 
-<img align='right' src='https://pic3.zhimg.com/80/v2-699d82063f906bc695b313999a4abcf6_720w.webp' height="300px">
+<img align='right' src='https://pic3.zhimg.com/80/v2-699d82063f906bc695b313999a4abcf6_720w.webp' height="200px">
 
 # Hi,这里是[SmallKunKun](https://kunkun.eu.org/).🤗
 
