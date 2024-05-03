@@ -20,9 +20,9 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=SmallKunKun&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5'>
 
-<img align='right' src='https://pic1.zhimg.com/80/v2-8cad98e03aaffbc4be351e22e51d8978_720w.webp' width="40%">
-
 <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=SmallKunKun.github.io&hide_border=true&langs_count=10&theme=buefy'>
+
+<img align='right' src='https://pic1.zhimg.com/80/v2-8cad98e03aaffbc4be351e22e51d8978_720w.webp' width="40%">
 
 ## 语言 & 软件
 
