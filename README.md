@@ -7,13 +7,13 @@
 <!-- <img src="./assets/header.png" width="100%" alt="header"> -->
 
   <h1>SmallKunKun</h1>
-  <h1>
+  <!-- <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF9AD5&center=true&vCenter=true&width=680&lines=Dream%20it.%20Chase%20it.%20Code%20it.;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%85%83%E6%B0%94%E6%BB%A1%E6%BB%A1%E5%9C%B0%20Vibe%20Coding%20%E2%9C%A8" alt="typing">
-  </h1>
+  </h1> -->
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider">
+<!-- <img src="./assets/divider.svg" width="100%" alt="divider"> -->
 
 ## 🌸 关于我
 
@@ -24,7 +24,7 @@
 - 🍥 **爱好**：追番、游戏
   <br clear="right">
 
-<img src="./assets/divider.svg" width="100%" alt="divider">
+<!-- <img src="./assets/divider.svg" width="100%" alt="divider"> -->
 
 ## 💻 装备库
 
@@ -34,7 +34,8 @@
   <img src="https://img.shields.io/badge/OnePlus%20Ace%203%20%C2%B7%20Android-2E1B52?style=for-the-badge&logo=oneplus&logoColor=EB0029" alt="OnePlus Ace 3 · Android">
   <img src="https://img.shields.io/badge/iPad%20Air%207%20%C2%B7%20iPadOS-2E1B52?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="iPad Air 7 · iPadOS">
 </p>
-<img src="./assets/divider.svg" width="100%" alt="divider">
+
+<!-- <img src="./assets/divider.svg" width="100%" alt="divider"> -->
 
 ## 👋 捉到我
 
