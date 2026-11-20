@@ -26,7 +26,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="divider">
 
-## 💻 设备 · 系统
+## 💻 装备库
 
 <p>
   <img src="https://img.shields.io/badge/ASUS%20%E5%A4%A9%E9%80%89%206%20Pro%20%C2%B7%20Hackintosh-2E1B52?style=for-the-badge&logo=asus&logoColor=FF9AD5" alt="ASUS 天选 6 Pro · Hackintosh">
