@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="26" viewBox="0 0 600 26" fill="none" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF9AD5" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#FF9AD5" stop-opacity=".6"/>
+      <stop offset="0.4" stop-color="#FF9AD5" stop-opacity="1"/>
+      <stop offset="0.5" stop-color="#A78BFA" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#FF9AD5" stop-opacity="1"/>
+      <stop offset="0.82" stop-color="#FF9AD5" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#FF9AD5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11.75" width="600" height="2.5" fill="url(#l)"/>
+  <g transform="translate(300 13)">
+    <g fill="#FFB3DC">
+      <ellipse cx="0" cy="-6.6" rx="4.3" ry="6.3"/>
+      <ellipse cx="0" cy="-6.6" rx="4.3" ry="6.3" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-6.6" rx="4.3" ry="6.3" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-6.6" rx="4.3" ry="6.3" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-6.6" rx="4.3" ry="6.3" transform="rotate(288)"/>
+    </g>
+    <circle r="2.2" fill="#FFF1F9"/>
+  </g>
+  <circle cx="252" cy="13" r="2" fill="#A78BFA" opacity=".95"/>
+  <circle cx="348" cy="13" r="2" fill="#A78BFA" opacity=".95"/>
+</svg>
