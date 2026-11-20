@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/ASUS%20%E5%A4%A9%E9%80%89%206%20Pro%20%C2%B7%20Hackintosh-2E1B52?style=for-the-badge&logo=asus&logoColor=FF9AD5" alt="ASUS 天选 6 Pro · Hackintosh">
   <img src="https://img.shields.io/badge/Mac%20mini%20M4%20%C2%B7%20macOS-2E1B52?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="Mac mini · macOS">
   <img src="https://img.shields.io/badge/OnePlus%20Ace%203%20%C2%B7%20Android-2E1B52?style=for-the-badge&logo=oneplus&logoColor=EB0029" alt="OnePlus Ace 3 · Android">
-  <img src="https://img.shields.io/badge/iPad%20Air%207%20%C2%B7%20iPadOS-2E1B52?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="iPad Air 7 · iPadOS">
+  <img src="https://img.shields.io/badge/iPad%20Air%20M3%20%C2%B7%20iPadOS-2E1B52?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="iPad Air 7 · iPadOS">
 </p>
 
 <!-- <img src="./assets/divider.svg" width="100%" alt="divider"> -->
