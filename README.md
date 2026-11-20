@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://count.getloli.com/get/@SmallKunKun?theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  <img src="https://count.getloli.com/get/@SmallKunKun?theme=miku&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto">
 
 <br>
 
